@@ -228,4 +228,4 @@ This repository serves as the official landing page for Waterfox. The software i
 **Get the most recent version of Waterfox today!**
 
 ---
-**Last updated:** 2026-10-16 23:07:31 UTC
+**Last updated:** 2026-10-17 02:07:39 UTC
